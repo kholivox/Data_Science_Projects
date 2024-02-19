@@ -1,6 +1,6 @@
 # Project Name
 
-![Project Logo](https://example.com/project_logo.png)
+![Project Logo]([https://example.com/project_logo.png](https://seeklogo.com/images/T/the-project-logo-6082FFB8D5-seeklogo.com.png))
 
 Short project description or tagline goes here.
 
