@@ -1,6 +1,7 @@
 # Project Name
 
-<img src="https://aemi.ie/wp-content/uploads/2021/10/Project-Arts-Centre-Logo-Black-1-scaled.jpg" width="200">
+![Project Logo](https://t4.ftcdn.net/jpg/03/52/97/73/240_F_352977326_Qu0VEVvmzJflBZnraDm3HJ2zrahCJEoa.jpg)
+
 
 Short project description or tagline goes here.
 
