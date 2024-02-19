@@ -9,6 +9,8 @@
 [![GitHub license](https://img.shields.io/github/license/yourusername/Data-Science-Project)](https://github.com/yourusername/Data-Science-Project/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/Data-Science-Project)](https://github.com/yourusername/Data-Science-Project/issues)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/Data-Science-Project)](https://github.com/yourusername/Data-Science-Project/stargazers)
+![Project Workflow Diagram](https://github.com/yourusername/Data-Science-Project/blob/main/images/workflow_diagram.png)
+
 
 ## Overview
 
@@ -29,4 +31,4 @@ Describe how to install any dependencies and how to set up the project environme
 ```bash
 pip install -r requirements.txt
 
-![Project Workflow Diagram](https://github.com/yourusername/Data-Science-Project/blob/main/images/workflow_diagram.png)
+
