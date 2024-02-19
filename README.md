@@ -6,6 +6,7 @@
 ## 2.sms-spam-classifier-main
 ## 3.Car_Price_Prediction
 ## 4.T20 World Cup 2022
+## 5.Personalized Cancer Diagnosis
 
 Short project description or tagline goes here.
 
