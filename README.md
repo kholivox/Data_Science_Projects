@@ -28,3 +28,5 @@ Describe how to install any dependencies and how to set up the project environme
 
 ```bash
 pip install -r requirements.txt
+
+![Project Workflow Diagram](https://github.com/yourusername/Data-Science-Project/blob/main/images/workflow_diagram.png)
