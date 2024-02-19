@@ -1,6 +1,6 @@
 # Project Name
 
-![Project Logo]([https://example.com/project_logo.png](https://aemi.ie/wp-content/uploads/2021/10/Project-Arts-Centre-Logo-Black-1-scaled.jpg))
+![Project Logo](https://aemi.ie/wp-content/uploads/2021/10/Project-Arts-Centre-Logo-Black-1-scaled.jpg)
 
 Short project description or tagline goes here.
 
