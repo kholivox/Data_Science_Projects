@@ -8,6 +8,7 @@
 ## 4.T20 World Cup 2022
 ## 5.Personalized Cancer Diagnosis
 ## 6.Movie_Recommended_System
+## 7.Chronic Kidney Disease Prediction
 
 Short project description or tagline goes here.
 
