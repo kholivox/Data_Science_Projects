@@ -4,6 +4,7 @@
 
 ## 1.Haberman Basic Project
 ## 2.sms-spam-classifier-main
+## 3.Car_Price_Prediction
 
 [![GitHub license](https://img.shields.io/github/license/yourusername/Data-Science-Project)](https://github.com/yourusername/Data-Science-Project/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/Data-Science-Project)](https://github.com/yourusername/Data-Science-Project/issues)
