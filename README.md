@@ -9,6 +9,8 @@
 ## 5.Personalized Cancer Diagnosis
 ## 6.Movie_Recommended_System
 ## 7.Chronic Kidney Disease Prediction
+## 8.Gold Price Prediction
+
 
 Short project description or tagline goes here.
 
