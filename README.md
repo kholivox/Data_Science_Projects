@@ -43,7 +43,8 @@ Briefly introduce the project, its objectives, and its significance. Highlight a
 
 Include a link to a live demo or a video demonstration of the project (if applicable).
 
-<img src="[https://aemi.ie/wp-content/uploads/2021/10/Project-Arts-Centre-Logo-Black-1-scaled.jpg](https://t4.ftcdn.net/jpg/03/52/97/73/240_F_352977326_Qu0VEVvmzJflBZnraDm3HJ2zrahCJEoa.jpg)" width="200">
+![Project Logo](https://thumbs.wbm.im/pw/small/7e38756174613aa9cda4547559bf878d.avif)
+
 
 ## Installation
 
