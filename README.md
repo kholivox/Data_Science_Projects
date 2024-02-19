@@ -1,6 +1,6 @@
 # Project Name
 
-![Project Logo]([https://example.com/project_logo.png](https://seeklogo.com/images/T/the-project-logo-6082FFB8D5-seeklogo.com.png))
+![Project Logo]([[https://example.com/project_logo.png](https://seeklogo.com/images/T/the-project-logo-6082FFB8D5-seeklogo.com.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F296863%2Fthe-project&psig=AOvVaw2qTJ3QkquiDGkP01_tBKCP&ust=1708442901610000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCW5oPct4QDFQAAAAAdAAAAABAJ))
 
 Short project description or tagline goes here.
 
